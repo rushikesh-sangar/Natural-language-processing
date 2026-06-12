@@ -1,6 +1,6 @@
 # Natural language processing (NLP)
 
-This repository contains Python implementations of core Natural language processing (NLP) techniques and applications with a strong focus on **practical coding examples** rather than heavy theory.
+This repository contains Python implementations of core natural language processing (NLP) techniques and applications with a strong focus on **practical coding examples** rather than heavy theory.
 
 
 ## 📌 Features
