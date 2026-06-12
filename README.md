@@ -1,6 +1,7 @@
 # Natural language processing (NLP)
 
-This repository contains Python implementations of fundamental **Natural language processing (NLP)** concepts and techniques. The goal is to provide practical, hands-on examples for learning text processing, language understanding, and modern NLP workflows.
+This repository contains Python implementations of core Natural language processing (NLP) techniques and applications with a strong focus on **practical coding examples** rather than heavy theory.
+
 
 ## 📌 Features
 
