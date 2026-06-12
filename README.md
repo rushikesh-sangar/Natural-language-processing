@@ -1,4 +1,4 @@
-# Natural language processing (NLP) implementation
+# Natural language processing (NLP)
 
 This repository contains Python implementations of fundamental **Natural Language Processing (NLP)** concepts and techniques with a focus on practical learning through coding.
 
